@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: apoorva dup
+bio: A fat girl who is a foodie nd loves to sleep
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about life
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://apoorva2912.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
